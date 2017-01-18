@@ -1,0 +1,2 @@
+source '--no-verify'
+gemspec
